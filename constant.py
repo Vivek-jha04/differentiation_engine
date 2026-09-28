@@ -1,6 +1,6 @@
 """
-Module for constant term differentiation: 
-d/dx [c] with step-by-step breakdown
+Constant term differentiation: 
+d/dx [c] with step-by-step solution
 """
 
 def diffren_constant() -> str:

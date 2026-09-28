@@ -1,6 +1,6 @@
 """
-Algebraic differentiation:
-power rule used for d/dx [b*(var)^n] with step-by-step breakdown
+Algebra differentiation[]
+by using power rule for d/dx [b*(var)^n] with step-by-step solution.  
 """
 
 

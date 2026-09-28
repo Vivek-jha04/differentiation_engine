@@ -1,9 +1,9 @@
 """
-Module for natural logarithmic differentiation applying the Chain Rule:
-d/dx [b * (log(x))^n] with step-by-step breakdown.
+Logarithmic differentiation applying the Chain Rule:
+d/dx [b*(log(x))^n] with step-by-step breakdown.
 """
 
-def diffren_logarithmic(b: int, n: int, var: str) -> str:
+def diffren_logarithmic(b, n, var)->str:
     if b == 0 or n == 0:
         print("\nstep-1: any term raised to power 0 equals 1")
         print("step-2: constant differentiation is 0")

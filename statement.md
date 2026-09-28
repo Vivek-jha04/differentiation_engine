@@ -18,7 +18,3 @@
 
 - First year engineering students
 - Senior secondary students learning basic calculus for the first time.
-
-
- 
-

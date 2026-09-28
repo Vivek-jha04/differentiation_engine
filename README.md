@@ -10,6 +10,7 @@ This is an automatic and interactive program that calculates the derivatives usi
 - Logarithmic functions Calculates derivative of natural log.
 - Constant functions: Derivative gives zero for constant terms.
 - Safely handles the error on non-integer inputs or invalid inputs.
+ 
 
 
 ## Limitations

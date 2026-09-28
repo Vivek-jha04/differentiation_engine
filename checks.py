@@ -1,6 +1,6 @@
 """
-Input validation checks for the Differentiation Engine.
-Handles integer parsing and menu choices.
+Input valid checking for the Differentiation Engine.
+Handles valueError and menu choices.
 """
 
 def get_integer_input(prompt: str) -> int:

@@ -1,5 +1,5 @@
 """
-Main output for Automated Symbolic Differentiation Engine.
+Main output code for Automated Symbolic Differentiation Engine program.
 Runs the Interactive Command Line Interface (CLI).
 """
 

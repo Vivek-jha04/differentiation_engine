@@ -10,7 +10,7 @@ def diffren_trigonometric(b, n, func, var):
         print("\nstep-1: we know that constant differentiation or anything multiplied by zero is 0")
         return 0
 
-    # Base case: power n = 1
+    
     elif n == 1:
         print(f"\nstep-1: Applying standard derivative for {func}({var})")
         if func == "sin":
@@ -29,7 +29,7 @@ def diffren_trigonometric(b, n, func, var):
             print('-')
             
             
-    # Power n = 2
+    
     elif n - 1 == 1:
         bn = b * 2
         if func == "sin":
